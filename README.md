@@ -1,0 +1,4 @@
+# EmailKüldő Backend
+
+## Feladata
+ 
